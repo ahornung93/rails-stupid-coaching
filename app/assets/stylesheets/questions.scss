@@ -1,0 +1,13 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+div {
+  border-left: 8px solid grey;
+  padding: 8px;
+  margin: 16px;
+  width: 400px;
+  &#answer {
+    background: rgba(255,255,0,0.5)
+  }
+}
